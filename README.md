@@ -125,15 +125,7 @@ python main.py
 
 ---
 
-## ⭐ Support
 
-If you like this project:
-
-⭐ Star this repo
-🍴 Fork it
-📢 Share with friends
-
----
 
 ## 📌 Tags
 
@@ -141,7 +133,3 @@ If you like this project:
 
 ---
 
-If you want, I can also:
-✅ Add badges (stars, forks, etc.)
-✅ Create project structure (main.py, requirements.txt)
-✅ Make this README more advanced (with graphs + images)
